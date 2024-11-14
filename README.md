@@ -1,4 +1,4 @@
-# Flight Price Prediction
+# Airline Ticket Price Prediction
 This project predicts flight ticket prices based on various input features, such as origin, destination, date, and airline. It uses a machine learning model built with Python and scikit-learn, with a user interface developed in ReactJS and styled with Tailwind CSS.
 
 # Features
